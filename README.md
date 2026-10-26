@@ -9,8 +9,7 @@ O projeto **Vitrine de Discos** tem como objetivo desenvolver conhecimentos prá
 
 ## 👥 Integrantes
 
-| Nome | RM |
+Clara Franco Silva		           RM: 573932
+Davi Fernandes Siqueira Serra    RM: 575634
+João Gabriel Santana de Souza	   RM: 576019
 
-| Clara Franco Silva | 573932 |
-| Davi Fernandes Siqueira Serra | 575634 |
-| João Gabriel Santana de Souza | 576019 |
