@@ -66,17 +66,58 @@ section{
 }
 
 
-
-
-
 /* rascunho da seção 2 */
 .secao2{
-    background-color: rgb(8, 206, 130);
+    background-color: #11100E;
     width: 100%;
-    min-height: 100vh; 
+    height: 925px;
+
+    #alinha {
+        display: flex;
+        justify-content: space-evenly;
+        font-size: 40px;
+        color: #eee2e2e7;
+        text-align: center;
+    }
+
+    .neg {
+        font-weight: 700;
+    }
+
+    p {
+        display: flex;
+        align-items: center;
+        width: 400px;
+    }
 
     h2{
         font-size:50px;
         color: #eee2e2e7;
+        text-align: center;
+        margin: 30px;
+    }
+
+    .grupo {
+        width: 500px;
+        height: 750px;
+    }
+
+    #img-novidades {
+        display: flex;
+    }
+
+    .linha {
+        display: flex;
+    }
+
+    .img-linha {
+        width: 250px;
+        padding: 15px;
+        border-radius: 30px;
+    }
+    .grande-img {
+        width: 500px;
+        padding: 15px;
+        border-radius: 30px;
     }
 }
