@@ -1,13 +1,16 @@
-Vitrine de Discos:
-Este projeto tem como objetivo desenvolver conhecimentos práticos em HTML e CSS, trabalhando a estruturação de conteúdo, a organização de seções, a utilização de imagens e a construção de uma interface visual temática.
+# 🎵 Vitrine de Discos
 
-Tecnologias:
--HTML5
--CSS3
+## 📌 Sobre o projeto
+O projeto **Vitrine de Discos** tem como objetivo desenvolver conhecimentos práticos em HTML5 e CSS3, explorando a estruturação de conteúdo, a organização de seções, a utilização de imagens e a criação de uma interface visual temática voltada ao universo musical.
 
-Equipe:
-Clara Franco Silva		         RM: 573932
-Davi Fernandes Siqueira Serra  RM: 575634
-João Gabriel Santana de Souza	 RM: 576019
+## 🛠️ Tecnologias utilizadas
+- HTML5
+- CSS3
 
+## 👥 Integrantes
 
+| Nome | RM |
+
+| Clara Franco Silva | 573932 |
+| Davi Fernandes Siqueira Serra | 575634 |
+| João Gabriel Santana de Souza | 576019 |
